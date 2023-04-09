@@ -1,0 +1,14 @@
+*{
+    padding: 0 !important;
+}
+.IMG{
+    background-image: url("https://blog.templatetoaster.com/wp-content/uploads/2019/09/What-is-Bootstrap-Facebook.png");
+    height:100%;
+    width: 100%;
+    object-fit:cover;
+}
+.small-img{
+    height:170px;
+    width: 250px;
+    border-radius:5px;
+}
